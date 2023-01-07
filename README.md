@@ -1,2 +1,3 @@
 # bloxflip-predict-mines
-predictor
+watch the youtube tut 
+to see hwo to setup & shit
